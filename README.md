@@ -1,5 +1,7 @@
 # 🎬 Movie Recommender System (Content-Based)
 
+🚀 [Click here to try the app!](https://movie-recommendation-system-abenrqsj3l2tojpxhqrdcw.streamlit.app/)
+
 This is a machine learning project built to showcase practical skills in **data preprocessing**, **feature engineering**, **similarity modeling**, and **deployment**. The goal was to create a **content-based movie recommendation system** using real-world data from TMDB (The Movie Database), and deploy it as an interactive web app using **Streamlit**.
 
 ---
